@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `sliceit.com`
 - 🌱 I’m currently learning `cryptography`, `data structures`, `algorithms`
 - 👯 I’m looking to collaborate on `00imvj00/mqttrs`
 - 🤔 I’m looking for help with `Rust`
