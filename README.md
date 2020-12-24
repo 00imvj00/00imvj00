@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning `cryptography`, `data structures`, `algorithms`
+- 🌱 I’m currently learning `data compression`,`cryptography`, `data structures`, `algorithms`
 - 👯 I’m looking to collaborate on `00imvj00/mqttrs`
 - 🤔 I’m looking for help with `Rust`
 - 💬 Ask me about `Rust`,`Go`,`NodeJS`,`Schedulers`,`Runtimes`,`Distributed Systems`
