@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- World is full of opportunities, Let's write `app at a time`. 
+
 - 🌱 I’m super interested in `data compression`,`cryptography`, `data structures`, `algorithms`.
 - Open source projects currenlty working/researching on `mqtt systems`, `text editors`.
 - 👯 I’m looking to collaborate on `text editors`, `binary encoding/decoding`.
