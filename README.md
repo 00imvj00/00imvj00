@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- World is full of <b>hard, real, essential</b> opportunities.
+I am Vijay Bambhaniya. Just simple Engineer. :) 
 
-- I’m super interested in `computer science`,`distributed systems`,`statistics`, `ai`.
-- Programming languages i prefer `Rust`, `Go`.
 - How to reach me: `vijaybambhaniya007@gmail.com`.
 
 <br />
@@ -29,3 +27,4 @@
   - `AI (NLP, DL, RL, ML)`
   - `Data compression`
   - `Cryptography & Data Encryption`
+  - `distributed computing systems`
