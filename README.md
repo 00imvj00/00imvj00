@@ -9,23 +9,23 @@
 <br />
 
 - Programming Languages
-    - golang
-    - rust
-    - javascript
-    - typescript
-    - Erlang/elixir
-    - python
+    - `golang`
+    - `rust`
+    - `javascript`
+    - `typescript`
+    - `Erlang/elixir`
+    - `python`
 
 - Domains
-  - e-learning
-  - payments
-  - fintech
-  - data-mining
-  - communication 
+  - `e-learning`
+  - `payments`
+  - `fintech`
+  - `data-mining`
+  - `communication & streaming` 
 
 - Research Interests
-  - Compiler Design & Implementation
-  - Statistics
-  - AI (NLP, DL, RL, ML)
-  - Data compression
-  - Cryptography & Data Encryption
+  - `Compiler Design & Implementation`
+  - `Statistics`
+  - `AI (NLP, DL, RL, ML)`
+  - `Data compression`
+  - `Cryptography & Data Encryption`
