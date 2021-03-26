@@ -7,7 +7,21 @@
 - How to reach me: `vijaybambhaniya007@gmail.com`.
 
 <br />
-<br />
+
+- Programming Languages
+    - golang
+    - rust
+    - javascript
+    - typescript
+    - Erlang/elixir
+    - python
+
+- Domains
+  - e-learning
+  - payments
+  - fintech
+  - data-mining
+  - communication 
 
 - Research Interests
   - Compiler Design & Implementation
