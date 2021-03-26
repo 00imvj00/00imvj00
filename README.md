@@ -9,4 +9,9 @@
 <br />
 <br />
 
--->
+- Research Interests
+    - Compiler Design & Implementation
+    - Statistics
+    - AI (NLP, DL, RL, ML)
+    - Data compression
+    - Cryptography & Data Encryption
