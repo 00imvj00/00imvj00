@@ -4,8 +4,6 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 
 - How to reach me: `vijaybambhaniya007@gmail.com`.
 
-<br />
-
 - current research: `compiler design & implementation`
 
 - Programming Languages
