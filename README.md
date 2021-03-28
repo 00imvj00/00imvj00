@@ -30,3 +30,5 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `distributed computing systems`
   - `embeded systems`
   - `computer graphics`
+  - `operating systems`
+  - `text editors`
