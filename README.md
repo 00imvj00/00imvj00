@@ -28,3 +28,5 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `Data compression`
   - `Cryptography & Data Encryption`
   - `distributed computing systems`
+  - `embeded systems`
+  - `computer graphics`
