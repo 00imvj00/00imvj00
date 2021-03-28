@@ -4,7 +4,7 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 
 - How to reach me: `vijaybambhaniya007@gmail.com`.
 
-- current research: `compiler design & implementation`
+- current research: `text editors`
 
 - Programming Languages
     - `golang`
