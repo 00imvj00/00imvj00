@@ -6,6 +6,8 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 
 <br />
 
+- current research: `compiler design & implementation`
+
 - Programming Languages
     - `golang`
     - `rust`
