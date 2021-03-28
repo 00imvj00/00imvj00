@@ -32,3 +32,7 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `computer graphics`
   - `operating systems`
   - `text editors`
+
+- Notable Work
+  - mqtt based binary encoder/decoder
+  - terminal based text editor from scratch
