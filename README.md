@@ -36,3 +36,11 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 - Notable Work
   - mqtt based binary encoder/decoder
   - terminal based text editor from scratch
+
+- companies i have worked for.
+  - `unacademy.com (current)`
+  - `mastree.com`
+  - `sliceit.com`
+  - `semantics3.com`
+  - `getvokal.com`
+  - `collegebol.com`
