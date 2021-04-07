@@ -4,8 +4,6 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 
 - How to reach me: `vijaybambhaniya007@gmail.com`.
 
-- current research: `text editors`
-
 - Programming Languages
     - `golang`
     - `rust`
@@ -21,6 +19,18 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `data-mining`
   - `communication & streaming` 
 
+- organizations i have worked for
+  - `unacademy.com (current)`
+  - `mastree.com`
+  - `sliceit.com`
+  - `semantics3.com`
+  - `getvokal.com`
+  - `collegebol.com`
+
+- open source contributions
+  - `mqttrs, rust based mqtt encoder/decoder`
+  - `asdf, terminal based text editor`
+
 - Research Interests
   - `Compiler Design & Implementation`
   - `Statistics`
@@ -33,14 +43,4 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `operating systems`
   - `text editors`
 
-- Notable Work
-  - mqtt based binary encoder/decoder
-  - terminal based text editor from scratch
 
-- companies i have worked for.
-  - `unacademy.com (current)`
-  - `mastree.com`
-  - `sliceit.com`
-  - `semantics3.com`
-  - `getvokal.com`
-  - `collegebol.com`
