@@ -30,6 +30,7 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
   - `asdf, terminal based text editor`
+  - `falcon, terminal based interactive mysql and postgresql client (TODO)`
 
 - Research Interests
   - `Compiler Design & Implementation`
