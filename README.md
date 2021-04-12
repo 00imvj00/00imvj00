@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Vijay Bambhaniya. Just simple Engineer. :) 
+I am Vijay Bambhaniya. Engineer :) 
 
-- How to reach me: `vijaybambhaniya007@gmail.com`.
+- How to reach me: `vijaybambhaniya007@gmail.com`
 
 - Programming Languages
     - `golang`
