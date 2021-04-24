@@ -12,12 +12,21 @@ I am Vijay Bambhaniya. Engineer :)
     - `Erlang/elixir`
     - `python`
 
+- programming platforms
+    - `nodejs`
+    - `opengl`
+    - `vulkan`
+    - `metal`
+    - `gfx-rs`
+    - `webgpu` 
+
 - Domains
   - `e-learning`
   - `payments`
   - `fintech`
   - `data-mining`
-  - `communication & streaming` 
+  - `communication & streaming`
+  - `game & graphics engineering`
 
 - organizations i have worked for
   - `unacademy.com (current)`
@@ -29,7 +38,7 @@ I am Vijay Bambhaniya. Engineer :)
 
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
-  - `asdf, terminal based text editor`
+  - `rim, terminal based text editor`
   - `falcon, terminal based interactive mysql and postgresql client (TODO)`
 
 - Research Interests
@@ -43,5 +52,6 @@ I am Vijay Bambhaniya. Engineer :)
   - `computer graphics`
   - `operating systems`
   - `text editors`
+  - `games`
 
 
