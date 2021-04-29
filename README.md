@@ -12,14 +12,6 @@ I am Vijay Bambhaniya. Engineer :)
     - `Erlang/elixir`
     - `python`
 
-- programming platforms
-    - `nodejs`
-    - `opengl`
-    - `vulkan`
-    - `metal`
-    - `gfx-rs`
-    - `webgpu` 
-
 - Domains
   - `e-learning`
   - `payments`
@@ -38,20 +30,16 @@ I am Vijay Bambhaniya. Engineer :)
 
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
-  - `rim, terminal based text editor`
-  - `falcon, terminal based interactive mysql and postgresql client (TODO)`
+  - `rim, terminal based text editor (exp)`
 
 - Research Interests
   - `Compiler Design & Implementation`
   - `Statistics`
   - `AI (NLP, DL, RL, ML)`
   - `Data compression`
-  - `Cryptography & Data Encryption`
   - `distributed computing systems`
   - `embeded systems`
   - `computer graphics`
   - `operating systems`
-  - `text editors`
-  - `games`
 
 
