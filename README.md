@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Vijay Bambhaniya. Just simple Engineer. :) 
+I am Vijay Bambhaniya. Engineer :) 
 
-- How to reach me: `vijaybambhaniya007@gmail.com`.
+- How to reach me: `vijaybambhaniya007@gmail.com`
 
 - Programming Languages
     - `golang`
@@ -17,7 +17,8 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
   - `payments`
   - `fintech`
   - `data-mining`
-  - `communication & streaming` 
+  - `communication & streaming`
+  - `game & graphics engineering`
 
 - organizations i have worked for
   - `unacademy.com (current)`
@@ -29,18 +30,16 @@ I am Vijay Bambhaniya. Just simple Engineer. :)
 
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
-  - `asdf, terminal based text editor`
+  - `rim, terminal based text editor (exp)`
 
 - Research Interests
   - `Compiler Design & Implementation`
   - `Statistics`
   - `AI (NLP, DL, RL, ML)`
   - `Data compression`
-  - `Cryptography & Data Encryption`
   - `distributed computing systems`
   - `embeded systems`
   - `computer graphics`
   - `operating systems`
-  - `text editors`
 
 
