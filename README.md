@@ -7,11 +7,7 @@ I am Vijay Bambhaniya. Engineer :)
 - Programming Languages
     - `golang`
     - `rust`
-    - `javascript`
-    - `typescript`
-    - `Erlang/elixir`
-    - `python`
-
+ 
 - Domains
   - `e-learning`
   - `payments`
@@ -19,6 +15,7 @@ I am Vijay Bambhaniya. Engineer :)
   - `data-mining`
   - `communication & streaming`
   - `game & graphics engineering`
+  - `medicine & healthcare`
 
 - organizations i have worked for
   - `unacademy.com (current)`
@@ -30,16 +27,5 @@ I am Vijay Bambhaniya. Engineer :)
 
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
-  - `rim, terminal based text editor (exp)`
-
-- Research Interests
-  - `Compiler Design & Implementation`
-  - `Statistics`
-  - `AI (NLP, DL, RL, ML)`
-  - `Data compression`
-  - `distributed computing systems`
-  - `embeded systems`
-  - `computer graphics`
-  - `operating systems`
 
 
