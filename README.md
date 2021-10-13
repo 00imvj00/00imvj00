@@ -9,6 +9,12 @@ I am Vijay Bambhaniya. Engineer :)
     - `rust`
     - `typescript`
     - `kotlin`
+
+- Platforms
+    - `backend`
+    - `android`
+    - `electron\desktop`
+    - `web`
  
 - Domains
   - `e-learning`
