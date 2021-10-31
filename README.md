@@ -2,8 +2,9 @@
 
 I am Vijay Bambhaniya. Engineer :) 
 
- - There is no such things as `luck`, `form`, `talent`. It's all about `intent`, `will` and `work` :)
- - Everybody is given equal chance to do everything, don't limit yourself.
+ - Thoughts
+   - There is no such things as `luck`, `form`, `talent`. It's all about `intent`, `will` and `work` :)
+   - Everybody is given equal chance to do everything, don't limit yourself.
 
 - How to reach me: `vijaybambhaniya007@gmail.com`
 
