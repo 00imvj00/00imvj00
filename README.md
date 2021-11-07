@@ -40,4 +40,5 @@ I am Vijay Bambhaniya. Engineer :)
 - open source contributions
   - `mqttrs, rust based mqtt encoder/decoder`
 
-
+- Quotes ;)
+  - `you humans are so interesting - Ryuk`
