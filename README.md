@@ -11,8 +11,7 @@ I am Vijay Bambhaniya. Engineer :)
 - Programming Languages
     - `golang`
     - `rust`
-    - `typescript`
-    - `kotlin`
+    - `dart`
 
 - Platforms
     - `backend`
