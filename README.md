@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vijay Bambhaniya. Engineer :) 
+I am Vijay Bambhaniya. Engineer, Catalyst :) 
 
  - Thoughts
    - There is no such things as `luck`, `form`, `talent`. It's all about `intent`, `will` and `work` :)
