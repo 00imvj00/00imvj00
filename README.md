@@ -46,3 +46,4 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `If you have nothing left to give, you are irrelevent - M (James Bond Universe)`
   - `007, It is just a number - JB007`
   - `Just spread the word - Himmat Singht (Special Ops 1.5)`
+  - `Sometimes, the simplest explanation is the right one`
