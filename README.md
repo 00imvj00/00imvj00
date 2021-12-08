@@ -30,7 +30,8 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `medicine & healthcare`
 
 - organizations i have worked for
-  - `unacademy.com (current)`
+  - `signoz(current)`
+  - `unacademy.com`
   - `mastree.com`
   - `sliceit.com`
   - `semantics3.com`
