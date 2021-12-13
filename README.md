@@ -48,3 +48,4 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `007, It is just a number - JB007`
   - `Just spread the word - Himmat Singht (Special Ops 1.5)`
   - `Sometimes, the simplest explanation is the right one`
+  - `When you are going to change the world, don't ask for permission`
