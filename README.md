@@ -49,4 +49,5 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `Just spread the word - Himmat Singht (Special Ops 1.5)`
   - `Sometimes, the simplest explanation is the right one`
   - `When you are going to change the world, don't ask for permission`
-  - - `The choice is an illusion, you already know what you have to do`
+  - `The choice is an illusion, you already know what you have to do`
+  - `It's not customer's job to know what they want - steve jobs`
