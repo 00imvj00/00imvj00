@@ -2,17 +2,11 @@
 
 I am Vijay Bambhaniya. Engineer, Catalyst :) 
 
- - Thoughts
-   - There is no such things as `luck`, `form`, `talent`. It's all about `intent`, `will` and `work` :)
-   - Everybody is given equal chance to do everything, don't limit yourself.
-   - Boredum is the root of all evils.
-
 - How to reach me: `vijaybambhaniya007@gmail.com`
 
 - Programming Languages
     - `golang`
     - `rust`
-    - `dart`
 
 - Platforms
     - `backend`
@@ -52,3 +46,6 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `The choice is an illusion, you already know what you have to do`
   - `It's not customer's job to know what they want - steve jobs`
   - `Comfort of certainty, Uff - the analyst`
+  - `There is no such things as luck, form, talent. It's all about intent, will and work :)`
+  - `Everybody is given equal chance to do everything, don't limit yourself`
+  - `Boredum is the root of all evils`
