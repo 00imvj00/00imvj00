@@ -51,3 +51,4 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `When you are going to change the world, don't ask for permission`
   - `The choice is an illusion, you already know what you have to do`
   - `It's not customer's job to know what they want - steve jobs`
+  - `Comfort of certainty, Uff - the analyst`
