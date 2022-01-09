@@ -14,3 +14,4 @@
 8. keep an eye out for essencial **system quality attributes**.
 9. SQAs are going to signal you, what is important in the system and what is not.
 10. Realistically understanding that **we can't be good at everything right off the bat**, depending on what the system is supposed to do, **only some of these are critically system quality attributes essential**. Identifying those will help us make some of those big up-front decisions. That's what architecture is about.
+11. Planning is almost everything.
