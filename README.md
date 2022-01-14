@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Vijay Bambhaniya. Engineer, Catalyst :) 
+I am Vijay Bambhaniya. 
+
+- Engineer, Domain Driven Design Practitioner
 
 - How to reach me: `vijaybambhaniya007@gmail.com`
 
@@ -24,7 +26,7 @@ I am Vijay Bambhaniya. Engineer, Catalyst :)
   - `medicine & healthcare`
 
 - organizations i have worked for
-  - ``
+  - `joinassembly.com(current)`
   - `unacademy.com`
   - `mastree.com`
   - `sliceit.com`
