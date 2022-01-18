@@ -2,7 +2,9 @@
 
 I am Vijay Bambhaniya. 
 
-- Engineer, Domain Driven Design Practitioner
+- Engineer
+- Domain Driven Design Practitioner
+- Doing things the agile way
 
 - How to reach me: `vijaybambhaniya007@gmail.com`
 
