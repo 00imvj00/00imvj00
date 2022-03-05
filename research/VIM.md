@@ -1,5 +1,9 @@
 # vim knowledge
 
+## Components 
+
+TODO
+
 ## Modes
 
 | Mode         | Description                                                                     |
@@ -24,3 +28,12 @@
 | script-variable   | s       | Local to :sourced vim script                  |
 | function-argument | a       | Function argument, only works inside function |
 | vim-variable      | v       | Global variable, preferred by vim             |
+
+
+## mappings
+
+TODO
+
+## autoCommands
+
+TODO
