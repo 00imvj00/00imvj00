@@ -16,7 +16,6 @@ I am Vijay Bambhaniya.
 - Platforms
     - `backend`
     - `android`
-    - `electron\desktop`
     - `web`
  
 - Domains
@@ -27,6 +26,7 @@ I am Vijay Bambhaniya.
   - `communication & streaming`
   - `game & graphics engineering`
   - `medicine & healthcare`
+  - `web security`
 
 - organizations i have worked for
   - `joinassembly.com(current)`
