@@ -29,7 +29,8 @@ I am Vijay Bambhaniya.
   - `web security`
 
 - organizations i have worked for
-  - `joinassembly.com(current)`
+  - `acko.com`
+  - `joinassembly.com`
   - `unacademy.com`
   - `mastree.com`
   - `sliceit.com`
