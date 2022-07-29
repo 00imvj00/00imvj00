@@ -42,6 +42,9 @@ I am Vijay Bambhaniya.
   - `mqttrs, rust based mqtt encoder/decoder`
 
 - Quotes ;)
+  - `A Day is the single most powerful resource anyone can have at their disposal`
+  - `Knowledge is the best currency & investment`
+  - `Boredum is the root of all evils`
   - `you humans are so interesting - Ryuk`
   - `Great things are done by a series of small things brought togather - Vincent Van Gogh`
   - `If you have nothing left to give, you are irrelevent - M (James Bond Universe)`
@@ -54,4 +57,3 @@ I am Vijay Bambhaniya.
   - `Comfort of certainty, Uff - the analyst`
   - `There is no such things as luck, form, talent. It's all about intent, will and work :)`
   - `Everybody is given equal chance to do everything, don't limit yourself`
-  - `Boredum is the root of all evils`
