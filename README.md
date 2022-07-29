@@ -22,6 +22,8 @@ I am Vijay Bambhaniya.
   - `e-learning`
   - `payments`
   - `fintech`
+    - `insuretech`
+    - `creditech`
   - `data-mining`
   - `communication & streaming`
   - `game & graphics engineering`
