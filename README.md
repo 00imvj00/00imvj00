@@ -6,7 +6,7 @@ I am Vijay Bambhaniya.
 - `I am Domain Driven Design Practitioner`
 - `I Belive in Doing things the agile way`
 - `OKR driven development & planning`
-- I read wikipedia, a lot.
+- `I read wikipedia, a lot`
 
 - How to reach me: `vijaybambhaniya007@gmail.com`
 
