@@ -13,6 +13,7 @@ I am Vijay Bambhaniya.
 - Programming Languages
     - `golang`
     - `rust`
+    - `java`
 
 - Platforms
     - `backend`
@@ -29,7 +30,6 @@ I am Vijay Bambhaniya.
   - `communication & streaming`
   - `game & graphics engineering`
   - `medicine & healthcare`
-  - `web security`
 
 - organizations i have worked for
   - `acko.com`
