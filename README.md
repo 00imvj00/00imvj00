@@ -60,3 +60,13 @@ I am Vijay Bambhaniya.
   - `Comfort of certainty, Uff - the analyst`
   - `There is no such things as luck, form, talent. It's all about intent, will and work :)`
   - `Everybody is given equal chance to do everything, don't limit yourself`
+ 
+- About Writing & Communicating
+    - What am I trying to achieve?
+    - Who am I talking to?
+    - What am I trying to say?
+    - What value am I bringing to the reader?
+    - How do I want the reader to feel?
+    - Is my writing clear, concise, and organized?
+    - Can I make my writing shorter?
+    - And remember: the best way to learn writing is to write.
